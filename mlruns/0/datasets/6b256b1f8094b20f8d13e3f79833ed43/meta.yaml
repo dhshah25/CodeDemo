@@ -1,0 +1,11 @@
+digest: d36110e6
+name: dataset
+profile: '{"features_shape": [50000, 32, 32, 3], "features_size": 153600000, "features_nbytes":
+  614400000, "targets_shape": [50000, 10], "targets_size": 500000, "targets_nbytes":
+  4000000}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 32, 32, 3]}}]", "targets": "[{\"type\":
+  \"tensor\", \"tensor-spec\": {\"dtype\": \"float64\", \"shape\": [-1, 10]}}]"}}'
+source: '{"tags": {"mlflow.user": "hp", "mlflow.source.name": "/Users/hp/Desktop/CodeDemo/src/train.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

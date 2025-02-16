@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hp/Desktop/CodeDemo/mlruns/0/c2d5fe682448418cbae29460010df8f4/artifacts
+end_time: 1739724586431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2d5fe682448418cbae29460010df8f4
+run_name: bustling-seal-758
+run_uuid: c2d5fe682448418cbae29460010df8f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739724490875
+status: 3
+tags: []
+user_id: hp
