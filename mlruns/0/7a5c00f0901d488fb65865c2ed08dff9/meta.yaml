@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hp/Desktop/CodeDemo/mlruns/0/7a5c00f0901d488fb65865c2ed08dff9/artifacts
+end_time: 1739901378352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a5c00f0901d488fb65865c2ed08dff9
+run_name: bouncy-penguin-432
+run_uuid: 7a5c00f0901d488fb65865c2ed08dff9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739901257178
+status: 3
+tags: []
+user_id: hp

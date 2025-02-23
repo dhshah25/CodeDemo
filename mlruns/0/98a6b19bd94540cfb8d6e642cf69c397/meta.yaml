@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hp/Desktop/CodeDemo/mlruns/0/98a6b19bd94540cfb8d6e642cf69c397/artifacts
+end_time: 1739898636686
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98a6b19bd94540cfb8d6e642cf69c397
+run_name: classy-skink-104
+run_uuid: 98a6b19bd94540cfb8d6e642cf69c397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739898398482
+status: 3
+tags: []
+user_id: hp

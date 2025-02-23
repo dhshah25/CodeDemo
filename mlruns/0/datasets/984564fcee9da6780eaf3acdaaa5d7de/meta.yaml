@@ -1,0 +1,11 @@
+digest: 53122d02
+name: dataset
+profile: '{"features_shape": [10000, 28, 28, 1], "features_size": 7840000, "features_nbytes":
+  31360000, "targets_shape": [10000, 10], "targets_size": 100000, "targets_nbytes":
+  800000}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 28, 28, 1]}}]", "targets": "[{\"type\":
+  \"tensor\", \"tensor-spec\": {\"dtype\": \"float64\", \"shape\": [-1, 10]}}]"}}'
+source: '{"tags": {"mlflow.user": "hp", "mlflow.source.name": "/Users/hp/Desktop/CodeDemo/venv/lib/python3.11/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
